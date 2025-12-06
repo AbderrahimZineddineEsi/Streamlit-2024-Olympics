@@ -60,7 +60,7 @@ The sidebar contains powerful filters that persist across pages to customize you
 
 3.  **Run the application:**
     ```bash
-    streamlit run 1_🏠_Overview.py
+    streamlit run Home.py
     ```
 
 ## 📂 Project Structure
