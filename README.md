@@ -63,17 +63,6 @@ The sidebar contains powerful filters that persist across pages to customize you
     streamlit run Home.py
     ```
 
-## 📂 Project Structure
-├── Home.py # Main Entry Point 
-├── pages/
-│ ├── 1_🏠_Overview.py 
-│ ├── 2_🗺️_Global_Analysis.py
-│ ├── 3_👤_Athlete_Performance.py
-│ └── 4_🏟️_Sports_and_Events.py
-├── data/ # CSV Datasets
-├── utils.py # Helper functions & Data Loading
-├── requirements.txt # Python dependencies
-└── README.md # Documentation
 
 ## 📊 Data Source
 The dataset used in this project is sourced from the [Paris 2024 Olympic Summer Games on Kaggle](https://www.kaggle.com/datasets/piterfm/paris-2024-olympic-summer-games).
